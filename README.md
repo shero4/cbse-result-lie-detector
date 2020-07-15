@@ -6,7 +6,7 @@ Tell if your school friend is lying about his board exam result with this simple
 
 1. Clone repository
 2. Change the school code and centre code in the python script
-3. Run this for 12th grade
+3. Run this for 12th grade(takes 5-7 seconds)
 ```bash
 python marks12th.py <Roll Number of friend>
 ```
