@@ -1,2 +1,14 @@
-# cbse-result-lie-detector
-Tell if your friend is lying about his Board result with this simple python script
+# CBSE Result Lie Detector
+
+Tell if your school friend is lying about his board exam result with this simple python script and their roll number
+
+## Usage
+
+1. Clone repository
+2. Change the school code and centre code in the python script
+3. Run this for 12th grade
+```bash
+python marks12th.py <Roll Number of friend>
+```
+
+## I do not condone the use of this program, it is illegal to run bruteforce scripts on any website without consent. Please use this python script as per your discretion
